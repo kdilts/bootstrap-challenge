@@ -46,7 +46,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<a class="navbar-brand" href="#">
-							<img src="images/logo.png" alt="LOGO"/>
+							<img src="images/logo.png" alt="LOGO" id="logo"/>
 						</a>
 					</div>
 
@@ -63,7 +63,14 @@
 			</nav>
 
 		</header>
-		<main></main>
+		<main>
+
+			<div class="jumbotron text-center">
+				<h1>Hello, Bootstrap Challenge!</h1>
+				<p>byline text</p>
+			</div>
+
+		</main>
 		<footer></footer>
 	</body>
 </html>
