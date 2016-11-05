@@ -46,7 +46,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<a class="navbar-brand" href="#">
-							<img src="images/logo.png" alt="LOGO" id="logo"/>
+							<img src="images/logo.png" alt="LOGO" class="img-responsive" id="logo"/>
 						</a>
 					</div>
 
@@ -65,10 +65,27 @@
 		</header>
 		<main>
 
-			<div class="jumbotron text-center">
-				<h1>Hello, Bootstrap Challenge!</h1>
-				<p>byline text</p>
-			</div>
+			<div class="container">
+
+				<!-- welcome board -->
+				<div class="jumbotron text-center">
+					<h1>Hello, Bootstrap Challenge!</h1>
+					<p>byline text</p>
+				</div>
+
+				<!-- phot + text block -->
+				<div class="row">
+					<div class="col-xs-3">
+						<img src="images/snake.jpg" alt="snake w/ a hat" class="img-responsive"/>
+					</div>
+					<div class="col-xs-9">
+						<p>
+							this is some text
+						</p>
+					</div>
+				</div>
+
+			</div><!-- /.container -->
 
 		</main>
 		<footer></footer>
