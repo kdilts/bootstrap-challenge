@@ -75,13 +75,44 @@
 
 				<!-- phot + text block -->
 				<div class="row">
-					<div class="col-xs-3">
+					<div class="col-sm-4">
 						<img src="images/snake.jpg" alt="snake w/ a hat" class="img-responsive"/>
 					</div>
-					<div class="col-xs-9">
+					<div class="col-sm-8">
 						<p>
-							this is some text
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non efficitur urna, at luctus ante. Sed euismod bibendum venenatis. Etiam luctus, turpis a sagittis mollis, turpis lacus ultricies ligula, a consectetur dolor mi ut dui. Nam vestibulum volutpat posuere. Suspendisse eros libero, egestas ut mollis vel, auctor at arcu. In non ornare orci, quis accumsan ex. Etiam id magna nunc. Integer scelerisque risus in commodo tristique. Ut id dui quis tortor sollicitudin luctus. Aenean et hendrerit elit. Aenean sodales dolor nunc. Morbi in luctus nunc, sit amet aliquet dolor. Duis ut ultrices tortor. Nunc libero orci, tincidunt non vulputate nec, accumsan quis sem. In laoreet, neque in pretium gravida, tortor turpis vehicula dolor, et pulvinar nulla libero in metus. Sed et consectetur justo.
 						</p>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-sm-3">
+						<img src="images/boa.jpg" alt="boa" class="img-responsive img-circle"/>
+						<div>
+							<h1 class="text-center">heading 1</h1>
+							<p>Quisque quis leo eget mi pharetra scelerisque. Pellentesque vehicula arcu at felis blandit, ac consectetur nisi elementum. Cras elementum dui in mattis volutpat. Sed vulputate nisi ligula, sit amet feugiat urna sollicitudin laoreet. Sed sit amet scelerisque nisl. Phasellus molestie sapien eu nisl mattis, blandit lobortis metus ultricies. Aenean vitae quam pharetra, cursus sapien eget, mattis urna.</p>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<img src="images/hello.jpg" alt="snake says hello" class="img-responsive img-circle"/>
+						<div>
+							<h1 class="text-center">heading 2</h1>
+							<p>Nulla ultricies, mi sit amet egestas porta, leo arcu volutpat erat, vitae feugiat massa nulla sit amet augue. Sed non libero viverra, efficitur sapien quis, finibus libero. Sed sodales risus lectus, quis varius risus egestas vel. Nullam dapibus semper augue, vel iaculis tortor venenatis sed. Sed ultrices neque quis fermentum sollicitudin. Sed ante purus, cursus sed turpis in, ultrices vulputate magna. Vivamus nec ligula ultrices, aliquam mauris quis, volutpat est. Phasellus fringilla nec erat ut bibendum.</p>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<img src="images/colorful.jpg" alt="colorful snake" class="img-responsive img-circle"/>
+						<div>
+							<h1 class="text-center">heading 3</h1>
+							<p>Pellentesque at pharetra ante, eu pretium neque. Nam hendrerit efficitur porttitor. Maecenas at venenatis augue. Proin vitae semper velit. Aenean posuere tellus vitae tristique rhoncus. Curabitur elementum convallis ex non sollicitudin. Pellentesque molestie nunc quis odio ullamcorper ullamcorper.</p>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<img src="images/python.jpg" alt="python" class="img-responsive img-circle"/>
+						<div>
+							<h1 class="text-center">heading 4</h1>
+							<p>Integer blandit enim ac imperdiet ornare. Maecenas id turpis dolor. Phasellus blandit augue non ornare laoreet. Aliquam erat volutpat. Mauris felis ex, fermentum quis nibh ut, tristique venenatis ex. Quisque dignissim et mi quis euismod. Phasellus gravida justo arcu, ut pharetra ipsum bibendum in. Nunc vel mi viverra, laoreet velit in, pellentesque justo. Morbi congue ligula nunc, eget mattis nibh vehicula vel. Vivamus fermentum lectus eget sollicitudin viverra. Duis eleifend imperdiet fermentum.</p>
+						</div>
 					</div>
 				</div>
 
