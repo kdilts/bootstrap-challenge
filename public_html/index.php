@@ -73,7 +73,7 @@
 					<p>byline text</p>
 				</div>
 
-				<!-- phot + text block -->
+				<!-- photo + text block -->
 				<div class="row">
 					<div class="col-sm-4">
 						<img src="images/snake.jpg" alt="snake w/ a hat" class="img-responsive"/>
@@ -119,6 +119,17 @@
 			</div><!-- /.container -->
 
 		</main>
-		<footer></footer>
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-4"></div>
+					<div class="col-xs-4">
+						<small>Copyright text</small>
+					</div>
+					<div class="col-xs-4"></div>
+				</div>
+			</div>
+			</div>
+		</footer>
 	</body>
 </html>
