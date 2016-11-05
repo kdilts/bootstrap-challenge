@@ -15,6 +15,7 @@
 		<script src="https://use.fontawesome.com/80f7910a7a.js"></script>
 
 		<!-- custom CSS goes here -->
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -45,7 +46,7 @@
 							<span class="icon-bar"></span>
 						</button>
 						<a class="navbar-brand" href="#">
-							<img src="images/logo.jpg" alt="LOGO"/>
+							<img src="images/logo.png" alt="LOGO"/>
 						</a>
 					</div>
 
